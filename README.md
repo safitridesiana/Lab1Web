@@ -15,7 +15,7 @@ TAMPILAN HALAMAN 2
 ![Screenshot (121)](https://user-images.githubusercontent.com/81596251/112922113-1f0ae000-9136-11eb-8c4e-6c8dd36ab01f.png)
 
 1. Terdapat error ketika dilakukan perubahan penulisan tag untuk menambahkan hyperlink,
-Penulisan tag yang benar adalah href. Jika ditulis hrf saya maka HTML tidak dapat mengenal elemen tersebut
+Penulisan tag yang benar adalah "href". Jika ditulis "hrf" saja maka HTML tidak dapat mengenal elemen tersebut.
 
 Contoh: ![PW](https://user-images.githubusercontent.com/81596251/112922355-917bc000-9136-11eb-8c54-e3f824a9b593.png)
 
