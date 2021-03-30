@@ -12,7 +12,7 @@ TAMPILAN HALAMAN 1
 ![Screenshot (120)](https://user-images.githubusercontent.com/81596251/112921916-cafffb80-9135-11eb-9884-2d767c5534b8.png)
 
 TAMPILAN HALAMAN 2
-![Screenshot (121)](https://user-images.githubusercontent.com/81596251/112922113-1f0ae000-9136-11eb-8c4e-6c8dd36ab01f.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/81596251/112924811-ffc28180-913a-11eb-9080-d117e2d3f780.png)
 
 1. Terdapat error ketika dilakukan perubahan penulisan tag untuk menambahkan hyperlink,
 Penulisan tag yang benar adalah "href". Jika ditulis "hrf" saja maka HTML tidak dapat mengenal elemen tersebut.
