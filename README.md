@@ -40,7 +40,8 @@ Atribut ALT adalah elemen yang dibutuhkan untuk gambar dan hanya dapat digunakan
 4. Bisa diisi, bisa juga tidak karena sebelum menggunakan atribut width dan height kita harus mengetahui terlebih dahulu ukuran gambar yang akan di gunakan agar kita bisa memasukan nilai sebanding antara width dan height sehingga gambar terlihat proposional.
 
 Tampilan perbedaan penggunaan atribut width (Gambar1) dan penggunaan atribur width + height (Gambar2)
-Gambar 1.
+
+Gambar 1. 
 ![Screenshot (126)](https://user-images.githubusercontent.com/81596251/112923528-abb69d80-9138-11eb-8cc1-446782f0a1fc.png)
 
 Gambar 2.
