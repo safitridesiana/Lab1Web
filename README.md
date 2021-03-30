@@ -46,9 +46,12 @@ Gambar 1.
 Gambar 2.
 ![Screenshot (128)](https://user-images.githubusercontent.com/81596251/112923576-b8d38c80-9138-11eb-9d15-1a61c6d65184.png)
 
-5. a. _blank , browser akan menampilkan atau memuat dokumen yang di link ke dalam jendela baru
+5. a. _blank , browser akan menampilkan atau memuat dokumen yang di link ke dalam jendela baru.
+
    b. _self, browser akan menampilkan atau memuat dokumen yang di link ke jendela atau ke frame yang sama dimana dokumen tersebut ditampilkan.
-   c. _top,  browser akan menampilkan atau memuat dokumen yang di link kedalam jendela yang baru dan fullscreen atau tampilan jendela penuh
+   
+   c. _top,  browser akan menampilkan atau memuat dokumen yang di link kedalam jendela yang baru dan fullscreen atau tampilan jendela penuh.
+   
    d. _parent, browser akan menampilkan atau memuat dokumen yang di link ke parent frame, yaitu jika link berada pada childframe maka dokumen akan di tampilkan ke parentframe.
 
 
